@@ -13,3 +13,13 @@ you can call it #learnInPublic or that a best way to learn is to teach it to oth
   - do you use X?
   - have you encountered Y?
   - ... im really bad at this, someone better at conversations help me along this idea plz
+
+---
+
+After [swyx](https://twitter.com/swyx)'s talk at RK about [#learnInPublic](https://twitter.com/hashtag/LearnInPublic), 5 more blogs / notes spawned to my knowledge alone:
+
+- [https://smokinclove.github.io/](https://smokinclove.github.io/)
+- [https://github.com/heyjiawei/learnInPublic](https://github.com/heyjiawei/learnInPublic)
+- [https://tzyinc.github.io/](https://tzyinc.github.io/)
+- james' site, a very beautiful animation, but he refuses to share the link
+- my own notes, not in public, because i hope to keep the relaxed feeling that they are for myself

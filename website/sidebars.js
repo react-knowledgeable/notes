@@ -1,7 +1,6 @@
 module.exports = {
   docs: {
-    'Running RK': ['event-flow'],
-    Website: ['website'],
+    'Running RK': ['event-flow', 'website'],
     Philosophy: ['learning'],
   },
 };
