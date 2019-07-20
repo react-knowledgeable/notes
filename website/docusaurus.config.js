@@ -20,8 +20,8 @@ module.exports = {
           to: 'event-flow',
         },
         {
-          href: 'https://reactknowledgeable.org/',
-          label: 'Main Site',
+          href: 'https://github.com/react-knowledgeable/notes/',
+          label: 'GitHub',
           position: 'right',
         },
       ],
