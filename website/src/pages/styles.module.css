@@ -21,6 +21,20 @@
   justify-content: center;
 }
 
-.sectionAlt {
-  background-color: var(--ifm-color-emphasis-alpha-05);
+.main {
+  min-height: calc(100vh - 60px - 86.5px);
+  display: flex;
+  flex-direction: column;
+}
+
+.callout {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.calloutHeading {
+  margin-bottom: 2em;
 }

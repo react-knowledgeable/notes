@@ -1,38 +1,37 @@
 module.exports = {
-  title: 'Tech Interview Handbook',
-  tagline:
-    'Carefully curated content to help you ace your next technical interview',
-  url: 'https://yangshun.github.io',
-  baseUrl: '/tech-interview-handbook/',
+  title: 'RK Notes',
+  tagline: 'Notes to run RK',
+  url: 'https://rk-notes.netlify.com',
+  baseUrl: '/notes/',
   favicon: 'img/favicon.png',
-  organizationName: 'yangshun',
-  projectName: 'tech-interview-handbook',
+  organizationName: 'react-knowledgeable',
+  projectName: 'rk-notes',
   themeConfig: {
     navbar: {
-      title: 'Tech Interview Handbook',
+      title: 'RK Notes',
       logo: {
-        alt: 'Tech Interview Handbook Logo',
+        alt: 'RK notes logo',
         src: 'img/logo.svg',
       },
       links: [
-        {to: 'introduction', label: 'Getting Started', position: 'right'},
         {
-          href: 'https://github.com/yangshun/tech-interview-handbook',
-          label: 'GitHub',
+          label: 'Read RK',
+          position: 'right',
+          to: 'event-flow',
+        },
+        {
+          href: 'https://reactknowledgeable.org/',
+          label: 'Main Site',
           position: 'right',
         },
       ],
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} Yangshun Tay. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} React Knowledgeable. Built with Docusaurus 2.`,
     },
     gtag: {
-      trackingID: 'UA-44622716-2',
-    },
-    algolia: {
-      apiKey: 'bd359779d1c4c71ade6062e8f13f5a83',
-      indexName: 'yangshun-tech-interview',
+      trackingID: 'UA-136098806-1 ',
     },
   },
   presets: [
@@ -40,7 +39,7 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
-          path: '../contents',
+          path: '../content',
           routeBasePath: '',
           sidebarPath: require.resolve('./sidebars.js'),
         },
