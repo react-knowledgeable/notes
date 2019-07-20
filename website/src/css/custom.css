@@ -1,25 +1,38 @@
 :root {
-  --ifm-color-primary: #7f7ff0;
   --ifm-color-primary: rgba(0, 0, 0, 0.8);
   --ifm-color-primary-dark: rgba(0, 0, 0, 0.7);
   --ifm-color-primary-darker: rgba(0, 0, 0, 0.8);
   --ifm-color-primary-darkest: rgba(0, 0, 0, 0.9);
-  --ifm-color-primary-light: rgba(0, 0, 0, 0.6);
-  --ifm-color-primary-lighter: rgba(0, 0, 0, 0.5);
-  --ifm-color-primary-lightest: rgba(0, 0, 0, 0.4);
+  --ifm-color-primary-light: rgba(255, 255, 255, 0.7);
+  --ifm-color-primary-lighter: rgba(255, 255, 255, 0.8);
+  --ifm-color-primary-lightest: rgba(255, 255, 255, 0.9);
+  /* --ifm-color-primary-dark: rgba(255, 255, 255, 0.8); */
 }
 
 a {
   text-decoration: underline;
-}
-a:hover {
-  color: var(--ifm-color-primary-lighter);
+  transition: all 0.2s ease;
 }
 
+a:hover,
 a:active {
-  color: var(--ifm-color-primary-lightest);
+  color: var(--ifm-color-primary-darkest);
 }
 
 a.contents__link {
   text-decoration: none;
+}
+
+html[data-theme='dark'] a,
+html[data-theme='dark'] a.contents__link {
+  color: var(--ifm-color-primary-light);
+}
+
+html[data-theme='dark'] a.menu__link.menu__link--active,
+html[data-theme='dark'] a.contents__link:hover,
+html[data-theme='dark'] .navbar .navbar__link:hover,
+html[data-theme='dark'] .navbar .navbar__link.navbar__link--active,
+html[data-theme='dark'] a:active,
+html[data-theme='dark'] a:hover {
+  color: var(--ifm-color-primary-lightest);
 }
