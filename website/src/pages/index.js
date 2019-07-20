@@ -6,8 +6,6 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import withBaseUrl from '@docusaurus/withBaseUrl';
 import styles from './styles.module.css';
 
-import successStories from '../data/successStories';
-
 function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
