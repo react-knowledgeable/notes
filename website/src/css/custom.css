@@ -8,3 +8,18 @@
   --ifm-color-primary-lighter: rgba(0, 0, 0, 0.5);
   --ifm-color-primary-lightest: rgba(0, 0, 0, 0.4);
 }
+
+a {
+  text-decoration: underline;
+}
+a:hover {
+  color: var(--ifm-color-primary-lighter);
+}
+
+a:active {
+  color: var(--ifm-color-primary-lightest);
+}
+
+a.contents__link {
+  text-decoration: none;
+}

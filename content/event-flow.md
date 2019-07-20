@@ -10,7 +10,7 @@ title: Event Flow
 - create GitHub cfp issue for _next_ month (one day before _this_ month)
 - venue and once confirmed
   - create meetup event
-  - signup event at [engineers.sg](https://bit.ly/esg-schedule) for recording
+  - signup event at with engineers.sg at [their spreadsheet](https://bit.ly/esg-schedule) for recording
 
 ### Hosting
 
