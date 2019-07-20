@@ -3,7 +3,7 @@ module.exports = {
   tagline: 'Notes to run RK',
   url: 'https://react-knowledgeable.github.io',
   baseUrl: '/notes/',
-  favicon: 'img/favicon.png',
+  favicon: 'img/favicon.ico',
   organizationName: 'react-knowledgeable',
   projectName: 'notes',
   themeConfig: {
