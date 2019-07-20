@@ -1,9 +1,10 @@
 :root {
   --ifm-color-primary: #7f7ff0;
-  --ifm-color-primary-dark: rgb(114, 114, 216);
-  --ifm-color-primary-darker: rgb(108, 108, 204);
-  --ifm-color-primary-darkest: rgb(89, 89, 168);
-  --ifm-color-primary-light: rgb(146, 146, 242);
-  --ifm-color-primary-lighter: rgb(165, 165, 245);
-  --ifm-color-primary-lightest: rgb(191, 191, 248);
+  --ifm-color-primary: rgba(0, 0, 0, 0.8);
+  --ifm-color-primary-dark: rgba(0, 0, 0, 0.7);
+  --ifm-color-primary-darker: rgba(0, 0, 0, 0.8);
+  --ifm-color-primary-darkest: rgba(0, 0, 0, 0.9);
+  --ifm-color-primary-light: rgba(0, 0, 0, 0.6);
+  --ifm-color-primary-lighter: rgba(0, 0, 0, 0.5);
+  --ifm-color-primary-lightest: rgba(0, 0, 0, 0.4);
 }
