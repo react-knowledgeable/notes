@@ -1,11 +1,11 @@
 module.exports = {
   title: 'RK Notes',
   tagline: 'Notes to run RK',
-  url: 'https://rk-notes.netlify.com',
+  url: 'https://react-knowledgeable.github.io',
   baseUrl: '/notes/',
   favicon: 'img/favicon.png',
   organizationName: 'react-knowledgeable',
-  projectName: 'rk-notes',
+  projectName: 'notes',
   themeConfig: {
     navbar: {
       title: 'RK Notes',
