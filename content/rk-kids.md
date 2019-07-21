@@ -17,5 +17,5 @@ In order of involvement, currently, we have:
 
 ### Outside contributors
 
-- [Huijing](https://twitter.com/hj_chen) who designed all the visuals
+- [Huijing](https://twitter.com/hj_chen) the magic kittencorn who designed all the visuals
 - [Nut](https://github.com/nutstick) who has been helping the site with GraphQL
