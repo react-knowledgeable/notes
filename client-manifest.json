@@ -10,17 +10,12 @@
       4,
       5,
       6,
+      7,
+      17,
+      18,
       0
     ],
-    "@theme/DocLegacyPage": [
-      0,
-      1
-    ],
     "@theme/DocLegacyItem": [
-      0,
-      1
-    ],
-    "@theme/NotFound": [
       0,
       1
     ],
@@ -40,205 +35,263 @@
       0,
       5
     ],
-    "/Users/wgao19/Documents/ccfe/rk-notes/content/website.md": [
+    "/Users/wgao19/Documents/ccfe/rk-notes/content/rk-kid.md": [
       0,
       6
     ],
-    "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-docs/notes-56d.json": [
+    "/Users/wgao19/Documents/ccfe/rk-notes/content/website.md": [
+      0,
       7
     ],
-    "main": [
-      14,
+    "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-docs/notes-56d.json": [
       8
     ],
-    "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-pages/notes-6e9.json": [
+    "main": [
+      16,
       9
     ],
-    "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-pages/notes-404-5ae.json": [
+    "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-pages/notes-6e9.json": [
       10
     ],
-    "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-docs/notes-event-flow-61f.json": [
+    "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-pages/notes-404-5ae.json": [
       11
     ],
-    "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-docs/notes-learning-15b.json": [
+    "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-docs/notes-event-flow-61f.json": [
       12
     ],
-    "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-docs/notes-website-f77.json": [
+    "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-docs/notes-learning-15b.json": [
       13
     ],
-    "runtime~main": [
-      8,
+    "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-docs/notes-rk-kids-fc6.json": [
       14
+    ],
+    "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-docs/notes-website-f77.json": [
+      15
+    ],
+    "runtime~main": [
+      9,
+      16
+    ],
+    "@theme/DocLegacyPage": [
+      0,
+      17
+    ],
+    "@theme/NotFound": [
+      0,
+      18
     ]
   },
   "assets": {
     "0": {
       "css": [
         {
-          "file": "common.f79887cae2466d697f83.css",
-          "hash": "f79887cae2466d697f83",
-          "publicPath": "/notes/common.f79887cae2466d697f83.css"
+          "file": "common.fecf35e343eb4a998ba9.css",
+          "hash": "fecf35e343eb4a998ba9",
+          "publicPath": "/notes/common.fecf35e343eb4a998ba9.css"
         }
       ],
       "js": [
         {
-          "file": "common.f79887cae2466d697f83.js",
-          "hash": "f79887cae2466d697f83",
-          "publicPath": "/notes/common.f79887cae2466d697f83.js"
+          "file": "common.fecf35e343eb4a998ba9.js",
+          "hash": "fecf35e343eb4a998ba9",
+          "publicPath": "/notes/common.fecf35e343eb4a998ba9.js"
         }
       ]
     },
     "1": {
       "css": [
         {
-          "file": "vendors.523be29b10ffcf854051.css",
-          "hash": "523be29b10ffcf854051",
-          "publicPath": "/notes/vendors.523be29b10ffcf854051.css"
+          "file": "component---theme-doc-legacy-item-031-769.e08fb3a00349dacf5b15.css",
+          "hash": "e08fb3a00349dacf5b15",
+          "publicPath": "/notes/component---theme-doc-legacy-item-031-769.e08fb3a00349dacf5b15.css"
         }
       ],
       "js": [
         {
-          "file": "vendors.523be29b10ffcf854051.js",
-          "hash": "523be29b10ffcf854051",
-          "publicPath": "/notes/vendors.523be29b10ffcf854051.js"
+          "file": "component---theme-doc-legacy-item-031-769.e08fb3a00349dacf5b15.js",
+          "hash": "e08fb3a00349dacf5b15",
+          "publicPath": "/notes/component---theme-doc-legacy-item-031-769.e08fb3a00349dacf5b15.js"
         }
       ]
     },
     "2": {
       "css": [
         {
-          "file": "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c.7399892751dda9470650.css",
-          "hash": "7399892751dda9470650",
-          "publicPath": "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c.7399892751dda9470650.css"
+          "file": "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c.dd5143a684251184cca3.css",
+          "hash": "dd5143a684251184cca3",
+          "publicPath": "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c.dd5143a684251184cca3.css"
         }
       ],
       "js": [
         {
-          "file": "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c.7399892751dda9470650.js",
-          "hash": "7399892751dda9470650",
-          "publicPath": "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c.7399892751dda9470650.js"
+          "file": "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c.dd5143a684251184cca3.js",
+          "hash": "dd5143a684251184cca3",
+          "publicPath": "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c.dd5143a684251184cca3.js"
         }
       ]
     },
     "3": {
       "css": [
         {
-          "file": "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.a5c563ffb9459ace0a60.css",
-          "hash": "a5c563ffb9459ace0a60",
-          "publicPath": "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.a5c563ffb9459ace0a60.css"
+          "file": "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.8633bef736d9bd15b85e.css",
+          "hash": "8633bef736d9bd15b85e",
+          "publicPath": "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.8633bef736d9bd15b85e.css"
         }
       ],
       "js": [
         {
-          "file": "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.a5c563ffb9459ace0a60.js",
-          "hash": "a5c563ffb9459ace0a60",
-          "publicPath": "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.a5c563ffb9459ace0a60.js"
+          "file": "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.8633bef736d9bd15b85e.js",
+          "hash": "8633bef736d9bd15b85e",
+          "publicPath": "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.8633bef736d9bd15b85e.js"
         }
       ]
     },
     "4": {
       "js": [
         {
-          "file": "content---notes-event-flow-2-ce-055.efc7d3a42156e6923d90.js",
-          "hash": "efc7d3a42156e6923d90",
-          "publicPath": "/notes/content---notes-event-flow-2-ce-055.efc7d3a42156e6923d90.js"
+          "file": "content---notes-event-flow-2-ce-055.2dd6a07efe0526c9a152.js",
+          "hash": "2dd6a07efe0526c9a152",
+          "publicPath": "/notes/content---notes-event-flow-2-ce-055.2dd6a07efe0526c9a152.js"
         }
       ]
     },
     "5": {
       "js": [
         {
-          "file": "content---notes-learning-1-a-5-75a.6204b23aa1d3faff37a0.js",
-          "hash": "6204b23aa1d3faff37a0",
-          "publicPath": "/notes/content---notes-learning-1-a-5-75a.6204b23aa1d3faff37a0.js"
+          "file": "content---notes-learning-1-a-5-75a.6028a8cd5951f75e8118.js",
+          "hash": "6028a8cd5951f75e8118",
+          "publicPath": "/notes/content---notes-learning-1-a-5-75a.6028a8cd5951f75e8118.js"
         }
       ]
     },
     "6": {
       "js": [
         {
-          "file": "content---notes-website-61-c-e9d.51f0947253be13fa824b.js",
-          "hash": "51f0947253be13fa824b",
-          "publicPath": "/notes/content---notes-website-61-c-e9d.51f0947253be13fa824b.js"
+          "file": "content---notes-rk-kids-9-dd-0a7.e2633ed127a53d8daee4.js",
+          "hash": "e2633ed127a53d8daee4",
+          "publicPath": "/notes/content---notes-rk-kids-9-dd-0a7.e2633ed127a53d8daee4.js"
         }
       ]
     },
     "7": {
       "js": [
         {
-          "file": "docsMetadata---notes-19-f-5fa.8ab7c185b300d04abb89.js",
-          "hash": "8ab7c185b300d04abb89",
-          "publicPath": "/notes/docsMetadata---notes-19-f-5fa.8ab7c185b300d04abb89.js"
+          "file": "content---notes-website-61-c-e9d.f6fb5cde9207b8631a4a.js",
+          "hash": "f6fb5cde9207b8631a4a",
+          "publicPath": "/notes/content---notes-website-61-c-e9d.f6fb5cde9207b8631a4a.js"
         }
       ]
     },
     "8": {
-      "css": [
-        {
-          "file": "main.72d847604541c5d5cf9e.css",
-          "hash": "72d847604541c5d5cf9e",
-          "publicPath": "/notes/main.72d847604541c5d5cf9e.css"
-        }
-      ],
       "js": [
         {
-          "file": "main.72d847604541c5d5cf9e.js",
-          "hash": "72d847604541c5d5cf9e",
-          "publicPath": "/notes/main.72d847604541c5d5cf9e.js"
+          "file": "docsMetadata---notes-19-f-5fa.99d270736b9a7c087dc4.js",
+          "hash": "99d270736b9a7c087dc4",
+          "publicPath": "/notes/docsMetadata---notes-19-f-5fa.99d270736b9a7c087dc4.js"
         }
       ]
     },
     "9": {
+      "css": [
+        {
+          "file": "main.1e8c906e1aca21ab291a.css",
+          "hash": "1e8c906e1aca21ab291a",
+          "publicPath": "/notes/main.1e8c906e1aca21ab291a.css"
+        }
+      ],
       "js": [
         {
-          "file": "metadata---notes-1-ad-339.ae6954ba839f9903fad9.js",
-          "hash": "ae6954ba839f9903fad9",
-          "publicPath": "/notes/metadata---notes-1-ad-339.ae6954ba839f9903fad9.js"
+          "file": "main.1e8c906e1aca21ab291a.js",
+          "hash": "1e8c906e1aca21ab291a",
+          "publicPath": "/notes/main.1e8c906e1aca21ab291a.js"
         }
       ]
     },
     "10": {
       "js": [
         {
-          "file": "metadata---notes-404-fd-1-770.250ff0b2b3e6cdaa6b76.js",
-          "hash": "250ff0b2b3e6cdaa6b76",
-          "publicPath": "/notes/metadata---notes-404-fd-1-770.250ff0b2b3e6cdaa6b76.js"
+          "file": "metadata---notes-1-ad-339.ad2004da768883c50047.js",
+          "hash": "ad2004da768883c50047",
+          "publicPath": "/notes/metadata---notes-1-ad-339.ad2004da768883c50047.js"
         }
       ]
     },
     "11": {
       "js": [
         {
-          "file": "metadata---notes-event-flow-3-f-2-077.66d3abe63e0011a1fb68.js",
-          "hash": "66d3abe63e0011a1fb68",
-          "publicPath": "/notes/metadata---notes-event-flow-3-f-2-077.66d3abe63e0011a1fb68.js"
+          "file": "metadata---notes-404-fd-1-770.6ec545c3373345686a97.js",
+          "hash": "6ec545c3373345686a97",
+          "publicPath": "/notes/metadata---notes-404-fd-1-770.6ec545c3373345686a97.js"
         }
       ]
     },
     "12": {
       "js": [
         {
-          "file": "metadata---notes-learninged-7-098.b39474f62e317450f013.js",
-          "hash": "b39474f62e317450f013",
-          "publicPath": "/notes/metadata---notes-learninged-7-098.b39474f62e317450f013.js"
+          "file": "metadata---notes-event-flow-3-f-2-077.0d085c9d73d474e90bf0.js",
+          "hash": "0d085c9d73d474e90bf0",
+          "publicPath": "/notes/metadata---notes-event-flow-3-f-2-077.0d085c9d73d474e90bf0.js"
         }
       ]
     },
     "13": {
       "js": [
         {
-          "file": "metadata---notes-website-48-d-cb3.87600179f3dc63c4d6a7.js",
-          "hash": "87600179f3dc63c4d6a7",
-          "publicPath": "/notes/metadata---notes-website-48-d-cb3.87600179f3dc63c4d6a7.js"
+          "file": "metadata---notes-learninged-7-098.55c5c3b494330e32e31c.js",
+          "hash": "55c5c3b494330e32e31c",
+          "publicPath": "/notes/metadata---notes-learninged-7-098.55c5c3b494330e32e31c.js"
         }
       ]
     },
     "14": {
       "js": [
         {
-          "file": "runtime~main.bbaa54fe6e5d56a7e4c3.js",
-          "hash": "bbaa54fe6e5d56a7e4c3",
-          "publicPath": "/notes/runtime~main.bbaa54fe6e5d56a7e4c3.js"
+          "file": "metadata---notes-rk-kids-137-25b.624f9015d2917e7b2410.js",
+          "hash": "624f9015d2917e7b2410",
+          "publicPath": "/notes/metadata---notes-rk-kids-137-25b.624f9015d2917e7b2410.js"
+        }
+      ]
+    },
+    "15": {
+      "js": [
+        {
+          "file": "metadata---notes-website-48-d-cb3.59b766c737594cae14d4.js",
+          "hash": "59b766c737594cae14d4",
+          "publicPath": "/notes/metadata---notes-website-48-d-cb3.59b766c737594cae14d4.js"
+        }
+      ]
+    },
+    "16": {
+      "js": [
+        {
+          "file": "runtime~main.0fff3dc59cc30cee92d7.js",
+          "hash": "0fff3dc59cc30cee92d7",
+          "publicPath": "/notes/runtime~main.0fff3dc59cc30cee92d7.js"
+        }
+      ]
+    },
+    "17": {
+      "css": [
+        {
+          "file": "17.e4e4a2d31ae2b30fe980.css",
+          "hash": "e4e4a2d31ae2b30fe980",
+          "publicPath": "/notes/17.e4e4a2d31ae2b30fe980.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "17.e4e4a2d31ae2b30fe980.js",
+          "hash": "e4e4a2d31ae2b30fe980",
+          "publicPath": "/notes/17.e4e4a2d31ae2b30fe980.js"
+        }
+      ]
+    },
+    "18": {
+      "js": [
+        {
+          "file": "18.dc7d3f8191a727f592b0.js",
+          "hash": "dc7d3f8191a727f592b0",
+          "publicPath": "/notes/18.dc7d3f8191a727f592b0.js"
         }
       ]
     }
