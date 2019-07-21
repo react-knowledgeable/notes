@@ -52,6 +52,12 @@ currently jennie has been doing all the photo editing, which is a lot of work. n
 
 ## Discussions
 
-Other meetups have their own style of hosting. As an example, ReactJS has roughly no hosting. SingaporeCSS has very a hosting in a very local vibe. However, we don't have to be the same, can consider as reference.
+Popup discussions around the organization of RK
+
+### Prep discussion before the first meetup
+
+ken & wei, july 18 2019
+
+Other meetups have their own style of hosting. As an example, ReactJS has roughly no hosting. SingaporeCSS has a hosting in a very local vibe. However, we don't have to be the same, can consider as reference.
 
 We've been doing well with all the prep / interviews with speakers etc. We definitely will be very nervous for the first few times and it's ok. I think in the long run we'll relax and have our vibes up.
