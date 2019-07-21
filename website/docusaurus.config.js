@@ -27,7 +27,6 @@ module.exports = {
       ],
     },
     footer: {
-      style: 'dark',
       copyright: `Copyright © ${new Date().getFullYear()} React Knowledgeable. Built with Docusaurus 2.`,
     },
     gtag: {
