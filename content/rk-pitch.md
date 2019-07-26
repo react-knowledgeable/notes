@@ -1,15 +1,16 @@
 ---
 id: rk-pitch
-title: RK Pitch
+title: Introducing RK to this town
+---
+
+Talk script
 ---
 
 Hello everyone. My name is Wei. I'm here to tell you about React Knowledgeable, which is a new meetup in Singapore on the topics of React and React Native.
 
-While this is something new in Singapore, a side note is that me and my co-organizer Ken have been running this internal to our team for roughly 10 months already.  With all due respect we get increasingly urged to make RK not bound to a company or limit to our team, but make it publicly accessible and make it about React.
+While this is something new in Singapore, a side note is that me and my co-organizer Ken have been running this internal to our team for a while already.  With all due respect we get increasingly urged to make RK not bound to a company or limit to our team, but make it publicly accessible and make it about React.
 
-To share a bit of numbers here about our internal chapter. We're a weekly series and this week we're at week #37. With our 30 and increasing developers, none of us had public speaking experience to begin with, over the ten months we've delivered more than 50 talks by more than 20 speakers. So that's roughly 2/3 of us and most of our speakers speak multiple times. Today roughly 5 ~ 6 of us have given talks in a local meetup. And some of us will start speaking at regional conferences later this year.
-
-But numbers don't mean anything if there isn't any virtues to it. The most thing we learn by running RK is that sharing is a good way to dive deep into learning if not the best way. This is shared by many of the thought leaders in our industry including dan abramov who suggests that we keep a blog even if just to catalogue our own learning, and swyx who gave a talk on #learnInPublic last month which says roughly the guiding principle of RK. The talk spawned 5 new blogs to my knowledge alone. But that also urged us that we should not keep this to ourselves, and that we should bring RK to a bigger audience given that it has been doing so great inside our team.
+We self identify as a fun and friendly podium to share what we learn about React. The most thing we learn by running RK is that sharing is a good way to dive deep into learning if not the best way. 
 
 So here's the plan. There is one type of talk that has been sparkling fun, and those are the lightning talks. Most of my favorite talks here at RK have been lightning talks. And so we will be doing RK in Singapore all on lightning talks. If you have doubts how much information you can include in a lightning talk, definitely check out this one by Andres. The talk was only five and a half minutes. And in 30 seconds the guy had a screen that said "DEMO" so buckle up and enjoy.
 
@@ -23,6 +24,7 @@ Lightning talks are short and if you've ever tried you'd know it's very challeng
 first event aug 6
 - have speaker lineup on the website
 - still have 1 ~ 2 more spots
+- if forget about things on the fly, just move on
 
 sequentially first thursday of every month?
 - need venue
@@ -31,3 +33,24 @@ sequentially first thursday of every month?
 shoutouts to ReactJS Singapore who has been of great support, also shoutouts to SingaporeCSS, forever friend of RK because it's so awesome :)))
 
 how to reach out
+
+Links
+---
+- [story at main site](https://reactknowledgeable.org/story/stories/introducing-rk-lightning-to-this-town/)
+- [notist page for slides and stuff](https://noti.st/wgao19/0zB2FW/introducing-react-knowledgeable)
+
+Discussions
+---
+
+July 25
+
+A few notes per discussed with @kenlsm regarding the talk
+
+- the uncertainties went drastic when I was trying to justify the virtues of RK, so I removed the numbers and simplified the learning part
+- people like the drawing
+
+and a few observations in ReactJS meetup
+- this month was 3 lightning talks and only 1 long talk
+- but one of the lightning talks was quite long (over 10 mins)
+- the lightning talks were show-and-tell of what people built -> the learning and deep diving kind is likely harder to expect
+- i feel people are not as sure as I expected to sign up for talks, maybe still observing
