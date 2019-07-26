@@ -16,5 +16,6 @@ This repo contains a [website](https://react-knowledgeable.github.io/notes/) bui
   - [Event Flow](content/event-flow.md)
   - [Website](content/website.md)
   - [RK Kids](content/rk-kids.md)
+  - [RK Pitch](content/rk-pitch.md)
 - Philosophy
   - [Learning](content/learning.md)
