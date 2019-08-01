@@ -30,6 +30,7 @@ title: Event Flow
   - discuss talk ideas
 - last two talks
 - popup talks that runs until 2050
+- remind speakers to update their resources to the github issue
 - encourage people to sign up to talks (#learnInPublic) and tell them how (create issue under label "talk" and reference next month's cfp issue)
 - good night
 
