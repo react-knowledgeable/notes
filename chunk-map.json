@@ -1,52 +1,58 @@
 {
   "main": [
-    "/notes/main.0748ff6489bf415e9b02.css",
-    "/notes/main.0748ff6489bf415e9b02.js"
+    "/notes/main.f0666e976fd3f61a95c1.css",
+    "/notes/main.f0666e976fd3f61a95c1.js"
   ],
   "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c": [
-    "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c.f42f819dc5d76958cfa1.css",
-    "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c.f42f819dc5d76958cfa1.js"
+    "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c.d40f2447dc32b89f9a16.css",
+    "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c.d40f2447dc32b89f9a16.js"
   ],
   "metadata---notes-404-fd-1-770": [
-    "/notes/metadata---notes-404-fd-1-770.6ec545c3373345686a97.js"
+    "/notes/metadata---notes-404-fd-1-770.3febab77f9139d2b5f5b.js"
   ],
   "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd": [
-    "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.5114320dc2ecef0cb629.css",
-    "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.5114320dc2ecef0cb629.js"
+    "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.5ac3c6c2f879f8d692ca.css",
+    "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.5ac3c6c2f879f8d692ca.js"
   ],
   "metadata---notes-1-ad-339": [
-    "/notes/metadata---notes-1-ad-339.ad2004da768883c50047.js"
+    "/notes/metadata---notes-1-ad-339.d6e13f250908373147ac.js"
   ],
   "component---theme-doc-legacy-page-9-e-7-ca5": [],
   "docsMetadata---notes-19-f-5fa": [
-    "/notes/docsMetadata---notes-19-f-5fa.6da3b3dda3758c993546.js"
+    "/notes/docsMetadata---notes-19-f-5fa.7a8c30b4f91a299a0e6e.js"
   ],
   "component---theme-doc-legacy-item-031-769": [
-    "/notes/component---theme-doc-legacy-item-031-769.34d3f564e5ec45a33761.css",
-    "/notes/component---theme-doc-legacy-item-031-769.34d3f564e5ec45a33761.js"
+    "/notes/component---theme-doc-legacy-item-031-769.a2c0e4951273dc22d465.css",
+    "/notes/component---theme-doc-legacy-item-031-769.a2c0e4951273dc22d465.js"
   ],
   "content---notes-event-flow-2-ce-055": [
-    "/notes/content---notes-event-flow-2-ce-055.d4b18ca6291a76fba8a8.js"
+    "/notes/content---notes-event-flow-2-ce-055.60c89cf2183b98e31346.js"
   ],
   "metadata---notes-event-flow-3-f-2-077": [
-    "/notes/metadata---notes-event-flow-3-f-2-077.32117412db03201e081e.js"
+    "/notes/metadata---notes-event-flow-3-f-2-077.c41b395256b1afa799db.js"
   ],
-  "content---notes-learning-1-a-5-75a": [
-    "/notes/content---notes-learning-1-a-5-75a.9228e397ac04f89a50f9.js"
-  ],
-  "metadata---notes-learninged-7-098": [
-    "/notes/metadata---notes-learninged-7-098.dbdd24c99ca8eb0025b6.js"
-  ],
-  "content---notes-website-61-c-e9d": [
-    "/notes/content---notes-website-61-c-e9d.96f66b7ee0a42cf2ef44.js"
-  ],
-  "metadata---notes-website-48-d-cb3": [
-    "/notes/metadata---notes-website-48-d-cb3.57f602bb26e4d8b62e98.js"
-  ],
-  "content---notes-rk-kids-9-dd-0a7": [
-    "/notes/content---notes-rk-kids-9-dd-0a7.3a743ce2ca345329de19.js"
+  "content---notes-rk-kids-059-722": [
+    "/notes/content---notes-rk-kids-059-722.875835c19fd7ac007c8a.js"
   ],
   "metadata---notes-rk-kids-137-25b": [
-    "/notes/metadata---notes-rk-kids-137-25b.624f9015d2917e7b2410.js"
+    "/notes/metadata---notes-rk-kids-137-25b.9af40b9630d8e606a7ae.js"
+  ],
+  "content---notes-rk-pitch-1-a-3-1bf": [
+    "/notes/content---notes-rk-pitch-1-a-3-1bf.e72820f36fcc04910cab.js"
+  ],
+  "metadata---notes-rk-pitchcad-1f5": [
+    "/notes/metadata---notes-rk-pitchcad-1f5.dc3effdc42d422398392.js"
+  ],
+  "content---notes-learning-1-a-5-75a": [
+    "/notes/content---notes-learning-1-a-5-75a.b8c130d876d7c2669121.js"
+  ],
+  "metadata---notes-learninged-7-098": [
+    "/notes/metadata---notes-learninged-7-098.b6bca78c0a386d448199.js"
+  ],
+  "content---notes-website-61-c-e9d": [
+    "/notes/content---notes-website-61-c-e9d.e4327eb4f1c20af0d573.js"
+  ],
+  "metadata---notes-website-48-d-cb3": [
+    "/notes/metadata---notes-website-48-d-cb3.9c4099e6b1c35dbfda14.js"
   ]
 }
