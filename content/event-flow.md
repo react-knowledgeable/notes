@@ -11,6 +11,7 @@ title: Event Flow
 - venue and once confirmed
   - create meetup event
   - signup event at with engineers.sg at [their spreadsheet](https://bit.ly/esg-schedule) for recording
+- find a nearby snack place that opens nearby
 
 ### Hosting
 
@@ -32,6 +33,7 @@ title: Event Flow
 - popup talks that runs until 2050
 - remind speakers to update their resources to the github issue
 - encourage people to sign up to talks (#learnInPublic) and tell them how (create issue under label "talk" and reference next month's cfp issue)
+- tell people about post event snack
 - good night
 
 ### Slides
@@ -55,6 +57,27 @@ currently jennie has been doing all the photo editing, which is a lot of work. n
 - send out information about talks, links to videos and resources, etc
 - tell people (again) to propose to speak at next month's event
 
+## Notes
+
+the notes are meant for noting down things we have in mind that we did well or can be better.
+
+### #1
+
+aug 6 2019
+
+we did well
+
+- rly very cozy
+- lightning talks are fun and well paced
+- nice discussions (i joined a few)
+- people like the after snack, it can be regular, better planned out and invite more people to join
+
+we can improve
+
+- for the intro: we can learn to pace things well, introduce people to what we are doing at each segment, give ample time at each segment make sure people are following
+- the break is intended for questions / discussions / networking, let's promote it not as a restroom break next times 😅
+- we can find place for post event snack beforehand and tell people about it
+
 ## Discussions
 
 Popup discussions around the organization of RK
@@ -66,9 +89,3 @@ ken & wei, july 18 2019
 Other meetups have their own style of hosting. As an example, ReactJS has roughly no hosting. SingaporeCSS has a hosting in a very local vibe. However, we don't have to be the same, can consider as reference.
 
 We've been doing well with all the prep / interviews with speakers etc. We definitely will be very nervous for the first few times and it's ok. I think in the long run we'll relax and have our vibes up.
-
-### first meetup
-
-- ken & wei, aug 8 2019
-
-pace things well, introduce people to what we are doing at each segment, give ample time at each segment make sure people are following
