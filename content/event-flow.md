@@ -34,6 +34,10 @@ title: Event Flow
 - encourage people to sign up to talks (#learnInPublic) and tell them how (create issue under label "talk" and reference next month's cfp issue)
 - good night
 
+### Slides
+
+Our meetup pages can be played as slides, see [here](https://github.com/react-knowledgeable/rk-community-site#-talk-slides) for instructions and create issue in [community site repo](https://github.com/react-knowledgeable/rk-community-site) for feature request.
+
 ### During the event
 
 - twitter live posting
@@ -62,3 +66,9 @@ ken & wei, july 18 2019
 Other meetups have their own style of hosting. As an example, ReactJS has roughly no hosting. SingaporeCSS has a hosting in a very local vibe. However, we don't have to be the same, can consider as reference.
 
 We've been doing well with all the prep / interviews with speakers etc. We definitely will be very nervous for the first few times and it's ok. I think in the long run we'll relax and have our vibes up.
+
+### first meetup
+
+- ken & wei, aug 8 2019
+
+pace things well, introduce people to what we are doing at each segment, give ample time at each segment make sure people are following
