@@ -76,7 +76,7 @@ we can improve
 
 - for the intro: we can learn to pace things well, introduce people to what we are doing at each segment, give ample time at each segment make sure people are following
 - the break is intended for questions / discussions / networking, let's promote it not as a restroom break next times 😅
-- we can find place for post event snack beforehand and tell people about it
+- we can find place for post event snack beforehand and invite people at the end of our events
 
 ## Discussions
 
