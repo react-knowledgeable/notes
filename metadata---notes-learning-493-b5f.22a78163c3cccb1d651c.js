@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{48:function(e){e.exports=JSON.parse('{"id":"learning","title":"Learning","description":"things that facilitate learning / discussions on React","source":"/root/rn_rk-notes/content/learning.md","permalink":"/notes/learning","sidebar":"docs","category":"Philosophy","previous":"website","previous_title":"Website"}')}}]);
