@@ -5,11 +5,11 @@ title: Venues
 
 ## Who are hosting us
 
-| event | venue     | date        | notes                     |
-| :---- | :-------- | :---------- | :------------------------ |
-| #1    | Carousell | Aug 6 2019  | cozy like a picnic place! |
-| #2    | TBD       | Sept 5 2019 | Thursday                  |
-| #3    | TBD       | Oct 3 2019  | Thursday                  |
+| event | venue         | date        | notes                     |
+| :---- | :------------ | :---------- | :------------------------ |
+| #1    | Carousell     | Aug 6 2019  | cozy like a picnic place! |
+| #2    | HackerspaceSG | Sept 5 2019 | true geek gem in SG       |
+| #3    | TBD           | Oct 10 2019 | still needs venue!        |
 
 ## Contacting venues
 
