@@ -9,7 +9,8 @@ title: Venues
 | :---- | :------------ | :---------- | :------------------------ |
 | #1    | Carousell     | Aug 6 2019  | cozy like a picnic place! |
 | #2    | HackerspaceSG | Sept 5 2019 | true geek gem in SG       |
-| #3    | TBD           | Oct 10 2019 | still needs venue!        |
+| #3    | SP Digital    | Oct 10 2019 |                           |
+| 43    | TBD           | Nov 7 2019  |                           |
 
 ## Contacting venues
 
