@@ -24,5 +24,6 @@ $ GIT_USER=[username] USE_SSH=1 yarn deploy
   - [Collaboration](content/rk-kids.md)
   - [Website](content/website.md)
   - [RK Pitch](content/rk-pitch.md)
+  - [Weekly](content/weekly.md)
 - Philosophy
   - [Learning](content/learning.md)

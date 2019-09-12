@@ -1,3 +1,8 @@
+---
+id: weekly
+title: Weekly
+---
+
 ## Week of Sept, 9 2019
 
 - proposed joint meetup with JAMstackSG potentially in Dec
