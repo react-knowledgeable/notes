@@ -10,7 +10,7 @@ title: Weekly
 - briefed in Talk.JS what happened in our last meetup
 - added [Talk.JS](https://www.singaporejs.org/talk.js/) to friendly links
 - confirmed SP Digital for October
-- Minh has a talk for Nov (check back again after Oct)
+- made rcs code more defensive and added sponsor list [rk-community-site#30](https://github.com/react-knowledgeable/rk-community-site/pull/30)
 
 ## Week of Sept 2, 2019
 
