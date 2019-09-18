@@ -3,7 +3,7 @@ id: weekly
 title: Weekly
 ---
 
-### Week of Sept 16, 2019
+## Week of Sept 16, 2019
 
 - submitted request for support to Gatsby community event
 
