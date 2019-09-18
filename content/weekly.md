@@ -3,6 +3,10 @@ id: weekly
 title: Weekly
 ---
 
+### Week of Sept 16, 2019
+
+- submitted request for support to Gatsby community event
+
 ## Week of Sept, 9 2019
 
 - proposed joint meetup with JAMstackSG potentially in Dec
