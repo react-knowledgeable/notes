@@ -7,6 +7,8 @@ title: Weekly
 
 - submitted request for support to Gatsby community event
 - confirmed Dec 12 for x Gatsby / JAMstack event
+- a few changes on the community site, see [changelog](https://github.com/react-knowledgeable/rk-community-site/blob/master/CHANGELOG.md#sept-21-2019)
+- the learning tweets seem to have had some interactions, maybe should try more
 
 ## Week of Sept, 9 2019
 
