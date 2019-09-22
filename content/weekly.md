@@ -6,7 +6,7 @@ title: Weekly
 ## Week of Sept 16, 2019
 
 - submitted request for support to Gatsby community event
-- confirm Dec 12 for x Gatsby / JAMstack event
+- confirmed Dec 12 for x Gatsby / JAMstack event
 
 ## Week of Sept, 9 2019
 
