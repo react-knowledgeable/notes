@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{52:function(t){t.exports=JSON.parse('{"id":"rk-pitch","title":"Introducing RK to this town","description":"Talk script","source":"/Users/wgao19/Documents/ccfe/rk-notes/content/rk-pitch.md","permalink":"/notes/rk-pitch"}')}}]);
