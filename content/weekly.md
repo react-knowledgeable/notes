@@ -3,6 +3,12 @@ id: weekly
 title: Weekly
 ---
 
+## Week of Sept 30, 2019
+
+- created a hacktoberfest label for the community site, welcoming PRs to add React updates
+- inquired GovTech Hive for Nov 2019
+- inquired Stripe for Dec 2019
+
 ## Week of Sept 16, 2019
 
 - submitted request for support to Gatsby community event
