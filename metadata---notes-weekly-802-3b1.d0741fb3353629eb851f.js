@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{52:function(e){e.exports=JSON.parse('{"id":"weekly","title":"Weekly","description":"## Week of Sept 30, 2019","source":"/root/rn_rk-notes/content/weekly.md","permalink":"/notes/weekly","sidebar":"docs","category":"Running RK","next":"learning","previous":"website","previous_title":"Website","next_title":"Learning"}')}}]);
