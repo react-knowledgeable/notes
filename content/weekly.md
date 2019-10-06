@@ -8,7 +8,7 @@ title: Weekly
 - created a [hacktoberfest label](https://github.com/react-knowledgeable/rk-community-site/issues?utf8=%E2%9C%93&q=+label%3Ahacktoberfest+) for the community site, welcoming PRs to add React updates
 - a lot of rk kids were at [SingaporeCSS #44](https://singaporecss.github.io/44/) this week
 - inquired GovTech Hive for Nov 2019 (confirmed)
-- inquired Stripe for Dec 2019 (in discussion)
+- inquired Stripe for Dec 2019 (in discussion, may need to change date to Dec 5)
 - [1yo post](https://reactknowledgeable.org/stories/rk-is-1yo/)
 
 ## Week of Sept 16, 2019
