@@ -3,6 +3,28 @@ id: weekly
 title: Weekly
 ---
 
+## Week of Oct 7, 2019
+
+- [RK #3 happened](https://reactknowledgeable.org/meetups/3/)
+  - we semi-successfully recorded ourselves, kudos ken!
+  - there was a miscommunication going on with our recording with raj (check twitter chat)
+- we may all go for engineers.sg volunteer training (follow up on dates)
+- we may have DBS as a partner, will follow up in two weeks
+
+a bit of random thoughts by @wgao19
+
+- we had a very small audience for #3
+- also wondering if we have many enough developers who would like to speak
+  - good lightning talks are a lot to ask from speakers
+  - in general the learning spirits of rk takes more effort
+  - we're prolly not great at reaching a lot people, which is fine, we should probably work on growing our core
+- thoughts on reworking on our proposal process
+  - make it private or create private channel, people may want private correspondence for this scenario
+  - wondering if we should send out private invitations to people who we'd like to have
+    - we've been doing this on personal level to friends anyway
+    - conferences do this
+- do we want a group chat?
+
 ## Week of Sept 30, 2019
 
 - created a [hacktoberfest label](https://github.com/react-knowledgeable/rk-community-site/issues?utf8=%E2%9C%93&q=+label%3Ahacktoberfest+) for the community site, welcoming PRs to add React updates
