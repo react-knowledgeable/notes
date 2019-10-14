@@ -10,6 +10,10 @@ title: Weekly
   - there was a miscommunication going on with our recording with raj (check twitter chat)
 - we may all go for engineers.sg volunteer training (follow up on dates)
 - we may have DBS as a partner, will follow up in two weeks
+- we had a panelist discussion with rk originals, lessons learned
+  - sending panelists prep sheets were very efficient
+  - chatting is more impromptu in nature, there are good questions from the ground
+  - works good on topics
 
 a bit of random thoughts by @wgao19
 
