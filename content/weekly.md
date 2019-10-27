@@ -3,6 +3,16 @@ id: weekly
 title: Weekly
 ---
 
+## Week of Oct 21, 2019
+
+- Thomas is in React Advanced London!
+- Adding talk listing to home page, [#52](https://github.com/react-knowledgeable/rk-community-site/pull/52), thanks @huijing, @JennieJi!
+
+## Week of Oct 14, 2019
+
+- Confirmed Stripe as venue sponsor for Dec 5 x JAMstack event
+- Ditched Meetup, [#48](https://github.com/react-knowledgeable/rk-community-site/pull/48)
+
 ## Week of Oct 7, 2019
 
 - [RK #3 happened](https://reactknowledgeable.org/meetups/3/)
