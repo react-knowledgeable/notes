@@ -12,8 +12,6 @@ Organizing a community is a lot of work. But we want people to enjoy the process
 
 ### Creativity
 
-A self organized thing can get routine and that will no longer be fun. So we need some creativity. Actually, we don't "need" creativity. It's probably an attitude.. Basically how it works is we are idea bouncers to each other. i.e., if @wgao19 has any ideas she bounces it off at @kenlsm. Then @kenlsm will ask some questions he has off his mind. And then @wgao19 normally goes ahead gives them some attempts anyway. If it doesn't get carried out in RK, it becomes her personal project. Then she'll either come to a conclusion that it's not worth pursuing (most of the time), or it's carried out with tremendous help and fine work from @kenlsm. The things happening right now are what turns out well as a result.
-
 We're quite automatous (apparently). Creativity means we value things we don't yet know. So we actually don't know what or even how we create things. Feel free to... just create things.
 
 ### Sensitive information
@@ -31,6 +29,7 @@ In order of involvement, currently, we have:
 - [Jennie](https://twitter.com/jyee721) our photographer and event publisher with attitudes
 - [Thomas](https://twitter.com/th__chia) our first honored guest and is chilling with us now too
 - [Yishu](https://twitter.com/yishusee) mysterious kid
+- [VimalRaj](https://twitter.com/email2vimalraj) the first person who ever proposed to speak at RK!
 
 In case you like us, speak with anybody listed above to join the party.
 

@@ -21,7 +21,7 @@ $ GIT_USER=[username] USE_SSH=1 yarn deploy
 
 - Runnig RK
   - [Event Flow](content/event-flow.md)
-  - [Collaboration](content/rk-kids.md)
+  - [Collaboration](content/collaboration.md)
   - [Website](content/website.md)
   - [RK Pitch](content/rk-pitch.md)
   - [Weekly](content/weekly.md)
