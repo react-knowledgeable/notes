@@ -20,7 +20,7 @@ $ GIT_USER=[username] USE_SSH=1 yarn deploy
 ## Table of contents
 
 - Weekly
-  - [2019](content/weekly.md)
+  - [2019](content/weekly/2019.md)
 - Runnig RK
   - [Event Flow](content/event-flow.md)
   - [Collaboration](content/collaboration.md)
