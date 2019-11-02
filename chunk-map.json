@@ -1,7 +1,7 @@
 {
   "main": [
-    "/notes/main.e67b7c45ac6162af6bf8.css",
-    "/notes/main.e67b7c45ac6162af6bf8.js"
+    "/notes/main.8f162ef63d5e5d74b23c.css",
+    "/notes/main.8f162ef63d5e5d74b23c.js"
   ],
   "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c": [
     "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c.a78ead39721eeadeaf70.css",
@@ -19,23 +19,23 @@
   ],
   "component---theme-doc-legacy-page-9-e-7-ca5": [],
   "docsMetadata---notes-19-f-5fa": [
-    "/notes/docsMetadata---notes-19-f-5fa.ec8f08a9328817d0c023.js"
+    "/notes/docsMetadata---notes-19-f-5fa.047c3dd56773088b8afa.js"
   ],
   "component---theme-doc-legacy-item-031-769": [
     "/notes/component---theme-doc-legacy-item-031-769.67a6f1fe44073935b872.css",
     "/notes/component---theme-doc-legacy-item-031-769.67a6f1fe44073935b872.js"
   ],
-  "content---notes-venuesef-8-22d": [
-    "/notes/content---notes-venuesef-8-22d.b8f76a10127b51ddd7ff.js"
+  "content---notes-collaboration-493-64a": [
+    "/notes/content---notes-collaboration-493-64a.745fb2a6be45245b419e.js"
   ],
-  "metadata---notes-venues-79-c-6e7": [
-    "/notes/metadata---notes-venues-79-c-6e7.29f9200f2d0e58198a4d.js"
+  "metadata---notes-collaboration-5-c-4-515": [
+    "/notes/metadata---notes-collaboration-5-c-4-515.9510f8d20b2b308af025.js"
   ],
-  "content---notes-learning-1-a-5-75a": [
-    "/notes/content---notes-learning-1-a-5-75a.b21a34b9a602453e6a6e.js"
+  "content---notes-event-flow-2-ce-055": [
+    "/notes/content---notes-event-flow-2-ce-055.6cc747f8b58191c50507.js"
   ],
-  "metadata---notes-learninged-7-098": [
-    "/notes/metadata---notes-learninged-7-098.731f45f5007b686a9b97.js"
+  "metadata---notes-event-flow-3-f-2-077": [
+    "/notes/metadata---notes-event-flow-3-f-2-077.8d6db98367464d3ca3da.js"
   ],
   "content---notes-website-61-c-e9d": [
     "/notes/content---notes-website-61-c-e9d.31ab2964bd452b9f6104.js"
@@ -43,22 +43,22 @@
   "metadata---notes-website-48-d-cb3": [
     "/notes/metadata---notes-website-48-d-cb3.6876b47d68ce596b006d.js"
   ],
-  "content---notes-collaboration-493-64a": [
-    "/notes/content---notes-collaboration-493-64a.6563e1347a0cbef8bfc5.js"
+  "content---notes-learning-1-a-5-75a": [
+    "/notes/content---notes-learning-1-a-5-75a.8fd39c33c788ba222240.js"
   ],
-  "metadata---notes-collaboration-5-c-4-515": [
-    "/notes/metadata---notes-collaboration-5-c-4-515.e1ada5cbc73f9b434635.js"
+  "metadata---notes-learninged-7-098": [
+    "/notes/metadata---notes-learninged-7-098.f6f9f012c67aa4798991.js"
+  ],
+  "content---notes-venuesef-8-22d": [
+    "/notes/content---notes-venuesef-8-22d.b3a9a1f89a773c9e1799.js"
+  ],
+  "metadata---notes-venues-79-c-6e7": [
+    "/notes/metadata---notes-venues-79-c-6e7.8d43aa6e281c879c796f.js"
   ],
   "content---notes-weekly-20191-a-1-f83": [
-    "/notes/content---notes-weekly-20191-a-1-f83.6af651256fcd9930a6fb.js"
+    "/notes/content---notes-weekly-20191-a-1-f83.4a4a204aaeab647c1d43.js"
   ],
   "metadata---notes-weekly-2019-e-49-67f": [
-    "/notes/metadata---notes-weekly-2019-e-49-67f.9202228b8a5dc277ed65.js"
-  ],
-  "content---notes-event-flow-2-ce-055": [
-    "/notes/content---notes-event-flow-2-ce-055.8173e41884df4b34edc8.js"
-  ],
-  "metadata---notes-event-flow-3-f-2-077": [
-    "/notes/metadata---notes-event-flow-3-f-2-077.cfb28eeb60223b5cc669.js"
+    "/notes/metadata---notes-weekly-2019-e-49-67f.e75f8119d758c9e2122f.js"
   ]
 }
