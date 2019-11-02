@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{46:function(n){n.exports=JSON.parse('{"id":"learning","title":"Learning","description":"## #learnInPublic","source":"/Users/wgao19/Documents/ccfe/rk-notes/content/learning.md","permalink":"/notes/learning","sidebar":"docs","category":"Philosophy","previous":"finance","previous_title":"Finance"}')}}]);
