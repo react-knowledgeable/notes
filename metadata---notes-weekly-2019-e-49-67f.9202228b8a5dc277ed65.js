@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{52:function(e){e.exports=JSON.parse('{"id":"weekly/2019","title":"2019","description":"## Week of Oct 28, 2019","source":"/Users/wgao19/Documents/ccfe/rk-notes/content/weekly/2019.md","permalink":"/notes/weekly/2019","sidebar":"docs","category":"Weekly","next":"event-flow","next_title":"Event Flow"}')}}]);
