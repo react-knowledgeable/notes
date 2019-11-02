@@ -48,15 +48,15 @@
       0,
       6
     ],
-    "/Users/wgao19/Documents/ccfe/rk-notes/content/learning.md": [
+    "/Users/wgao19/Documents/ccfe/rk-notes/content/finance.md": [
       0,
       7
     ],
-    "/Users/wgao19/Documents/ccfe/rk-notes/content/venues.md": [
+    "/Users/wgao19/Documents/ccfe/rk-notes/content/learning.md": [
       0,
       8
     ],
-    "/Users/wgao19/Documents/ccfe/rk-notes/content/website.md": [
+    "/Users/wgao19/Documents/ccfe/rk-notes/content/venues.md": [
       0,
       9
     ],
@@ -83,13 +83,13 @@
     "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-docs/notes-event-flow-61f.json": [
       16
     ],
-    "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-docs/notes-learning-15b.json": [
+    "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-docs/notes-finance-a3f.json": [
       17
     ],
-    "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-docs/notes-venues-309.json": [
+    "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-docs/notes-learning-15b.json": [
       18
     ],
-    "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-docs/notes-website-f77.json": [
+    "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-docs/notes-venues-309.json": [
       19
     ],
     "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-docs/notes-weekly-2019-227.json": [
@@ -155,192 +155,192 @@
     "3": {
       "css": [
         {
-          "file": "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c.a78ead39721eeadeaf70.css",
-          "hash": "a78ead39721eeadeaf70",
-          "publicPath": "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c.a78ead39721eeadeaf70.css"
+          "file": "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c.0aa4293784de16918e04.css",
+          "hash": "0aa4293784de16918e04",
+          "publicPath": "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c.0aa4293784de16918e04.css"
         }
       ],
       "js": [
         {
-          "file": "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c.a78ead39721eeadeaf70.js",
-          "hash": "a78ead39721eeadeaf70",
-          "publicPath": "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c.a78ead39721eeadeaf70.js"
+          "file": "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c.0aa4293784de16918e04.js",
+          "hash": "0aa4293784de16918e04",
+          "publicPath": "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-404-jsd-4-a-a0c.0aa4293784de16918e04.js"
         }
       ]
     },
     "4": {
       "css": [
         {
-          "file": "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.087d7fa7cd44ae17b96a.css",
-          "hash": "087d7fa7cd44ae17b96a",
-          "publicPath": "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.087d7fa7cd44ae17b96a.css"
+          "file": "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.b2cd9c75995e8030e6d8.css",
+          "hash": "b2cd9c75995e8030e6d8",
+          "publicPath": "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.b2cd9c75995e8030e6d8.css"
         }
       ],
       "js": [
         {
-          "file": "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.087d7fa7cd44ae17b96a.js",
-          "hash": "087d7fa7cd44ae17b96a",
-          "publicPath": "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.087d7fa7cd44ae17b96a.js"
+          "file": "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.b2cd9c75995e8030e6d8.js",
+          "hash": "b2cd9c75995e8030e6d8",
+          "publicPath": "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.b2cd9c75995e8030e6d8.js"
         }
       ]
     },
     "5": {
       "js": [
         {
-          "file": "content---notes-collaboration-493-64a.745fb2a6be45245b419e.js",
-          "hash": "745fb2a6be45245b419e",
-          "publicPath": "/notes/content---notes-collaboration-493-64a.745fb2a6be45245b419e.js"
+          "file": "content---notes-collaboration-493-64a.6563e1347a0cbef8bfc5.js",
+          "hash": "6563e1347a0cbef8bfc5",
+          "publicPath": "/notes/content---notes-collaboration-493-64a.6563e1347a0cbef8bfc5.js"
         }
       ]
     },
     "6": {
       "js": [
         {
-          "file": "content---notes-event-flow-2-ce-055.6cc747f8b58191c50507.js",
-          "hash": "6cc747f8b58191c50507",
-          "publicPath": "/notes/content---notes-event-flow-2-ce-055.6cc747f8b58191c50507.js"
+          "file": "content---notes-event-flow-2-ce-055.ce8334d6ac9f4b7afd95.js",
+          "hash": "ce8334d6ac9f4b7afd95",
+          "publicPath": "/notes/content---notes-event-flow-2-ce-055.ce8334d6ac9f4b7afd95.js"
         }
       ]
     },
     "7": {
       "js": [
         {
-          "file": "content---notes-learning-1-a-5-75a.14e99a9a75f8c9a5572a.js",
-          "hash": "14e99a9a75f8c9a5572a",
-          "publicPath": "/notes/content---notes-learning-1-a-5-75a.14e99a9a75f8c9a5572a.js"
+          "file": "content---notes-finance-77-f-02c.2c8b2000694925d953ce.js",
+          "hash": "2c8b2000694925d953ce",
+          "publicPath": "/notes/content---notes-finance-77-f-02c.2c8b2000694925d953ce.js"
         }
       ]
     },
     "8": {
       "js": [
         {
-          "file": "content---notes-venuesef-8-22d.0bc88ac56a3161e9c2d8.js",
-          "hash": "0bc88ac56a3161e9c2d8",
-          "publicPath": "/notes/content---notes-venuesef-8-22d.0bc88ac56a3161e9c2d8.js"
+          "file": "content---notes-learning-1-a-5-75a.0d89e58a10d463290355.js",
+          "hash": "0d89e58a10d463290355",
+          "publicPath": "/notes/content---notes-learning-1-a-5-75a.0d89e58a10d463290355.js"
         }
       ]
     },
     "9": {
       "js": [
         {
-          "file": "content---notes-website-61-c-e9d.e6572950baffe8f6507d.js",
-          "hash": "e6572950baffe8f6507d",
-          "publicPath": "/notes/content---notes-website-61-c-e9d.e6572950baffe8f6507d.js"
+          "file": "content---notes-venuesef-8-22d.e2b275874933e261bf28.js",
+          "hash": "e2b275874933e261bf28",
+          "publicPath": "/notes/content---notes-venuesef-8-22d.e2b275874933e261bf28.js"
         }
       ]
     },
     "10": {
       "js": [
         {
-          "file": "content---notes-weekly-20191-a-1-f83.f375ecac1c25eae8e914.js",
-          "hash": "f375ecac1c25eae8e914",
-          "publicPath": "/notes/content---notes-weekly-20191-a-1-f83.f375ecac1c25eae8e914.js"
+          "file": "content---notes-weekly-20191-a-1-f83.1cc0074267965dbbc150.js",
+          "hash": "1cc0074267965dbbc150",
+          "publicPath": "/notes/content---notes-weekly-20191-a-1-f83.1cc0074267965dbbc150.js"
         }
       ]
     },
     "11": {
       "js": [
         {
-          "file": "docsMetadata---notes-19-f-5fa.eec7c715fbbde795891f.js",
-          "hash": "eec7c715fbbde795891f",
-          "publicPath": "/notes/docsMetadata---notes-19-f-5fa.eec7c715fbbde795891f.js"
+          "file": "docsMetadata---notes-19-f-5fa.e245fa79e5f72cc8ff8d.js",
+          "hash": "e245fa79e5f72cc8ff8d",
+          "publicPath": "/notes/docsMetadata---notes-19-f-5fa.e245fa79e5f72cc8ff8d.js"
         }
       ]
     },
     "12": {
       "css": [
         {
-          "file": "main.468208066e93b8e77921.css",
-          "hash": "468208066e93b8e77921",
-          "publicPath": "/notes/main.468208066e93b8e77921.css"
+          "file": "main.588121a525f2a90e8dd1.css",
+          "hash": "588121a525f2a90e8dd1",
+          "publicPath": "/notes/main.588121a525f2a90e8dd1.css"
         }
       ],
       "js": [
         {
-          "file": "main.468208066e93b8e77921.js",
-          "hash": "468208066e93b8e77921",
-          "publicPath": "/notes/main.468208066e93b8e77921.js"
+          "file": "main.588121a525f2a90e8dd1.js",
+          "hash": "588121a525f2a90e8dd1",
+          "publicPath": "/notes/main.588121a525f2a90e8dd1.js"
         }
       ]
     },
     "13": {
       "js": [
         {
-          "file": "metadata---notes-1-ad-339.670346d0a61088b1f610.js",
-          "hash": "670346d0a61088b1f610",
-          "publicPath": "/notes/metadata---notes-1-ad-339.670346d0a61088b1f610.js"
+          "file": "metadata---notes-1-ad-339.19d14feb0968f98c2e42.js",
+          "hash": "19d14feb0968f98c2e42",
+          "publicPath": "/notes/metadata---notes-1-ad-339.19d14feb0968f98c2e42.js"
         }
       ]
     },
     "14": {
       "js": [
         {
-          "file": "metadata---notes-404-fd-1-770.8fff3dd3746890a2e719.js",
-          "hash": "8fff3dd3746890a2e719",
-          "publicPath": "/notes/metadata---notes-404-fd-1-770.8fff3dd3746890a2e719.js"
+          "file": "metadata---notes-404-fd-1-770.f2c002b28796739781d3.js",
+          "hash": "f2c002b28796739781d3",
+          "publicPath": "/notes/metadata---notes-404-fd-1-770.f2c002b28796739781d3.js"
         }
       ]
     },
     "15": {
       "js": [
         {
-          "file": "metadata---notes-collaboration-5-c-4-515.9510f8d20b2b308af025.js",
-          "hash": "9510f8d20b2b308af025",
-          "publicPath": "/notes/metadata---notes-collaboration-5-c-4-515.9510f8d20b2b308af025.js"
+          "file": "metadata---notes-collaboration-5-c-4-515.e1ada5cbc73f9b434635.js",
+          "hash": "e1ada5cbc73f9b434635",
+          "publicPath": "/notes/metadata---notes-collaboration-5-c-4-515.e1ada5cbc73f9b434635.js"
         }
       ]
     },
     "16": {
       "js": [
         {
-          "file": "metadata---notes-event-flow-3-f-2-077.8d6db98367464d3ca3da.js",
-          "hash": "8d6db98367464d3ca3da",
-          "publicPath": "/notes/metadata---notes-event-flow-3-f-2-077.8d6db98367464d3ca3da.js"
+          "file": "metadata---notes-event-flow-3-f-2-077.24c9c1ca1908493ec423.js",
+          "hash": "24c9c1ca1908493ec423",
+          "publicPath": "/notes/metadata---notes-event-flow-3-f-2-077.24c9c1ca1908493ec423.js"
         }
       ]
     },
     "17": {
       "js": [
         {
-          "file": "metadata---notes-learninged-7-098.1f3a2df8f636f9a68d49.js",
-          "hash": "1f3a2df8f636f9a68d49",
-          "publicPath": "/notes/metadata---notes-learninged-7-098.1f3a2df8f636f9a68d49.js"
+          "file": "metadata---notes-finance-019-914.f611954d1f352733fd96.js",
+          "hash": "f611954d1f352733fd96",
+          "publicPath": "/notes/metadata---notes-finance-019-914.f611954d1f352733fd96.js"
         }
       ]
     },
     "18": {
       "js": [
         {
-          "file": "metadata---notes-venues-79-c-6e7.7b7169a24b15eb999343.js",
-          "hash": "7b7169a24b15eb999343",
-          "publicPath": "/notes/metadata---notes-venues-79-c-6e7.7b7169a24b15eb999343.js"
+          "file": "metadata---notes-learninged-7-098.2cac76a4aa6e05eb22c5.js",
+          "hash": "2cac76a4aa6e05eb22c5",
+          "publicPath": "/notes/metadata---notes-learninged-7-098.2cac76a4aa6e05eb22c5.js"
         }
       ]
     },
     "19": {
       "js": [
         {
-          "file": "metadata---notes-website-48-d-cb3.c1ca118fd78b54547133.js",
-          "hash": "c1ca118fd78b54547133",
-          "publicPath": "/notes/metadata---notes-website-48-d-cb3.c1ca118fd78b54547133.js"
+          "file": "metadata---notes-venues-79-c-6e7.0ab61324b6eb421476cc.js",
+          "hash": "0ab61324b6eb421476cc",
+          "publicPath": "/notes/metadata---notes-venues-79-c-6e7.0ab61324b6eb421476cc.js"
         }
       ]
     },
     "20": {
       "js": [
         {
-          "file": "metadata---notes-weekly-2019-e-49-67f.e75f8119d758c9e2122f.js",
-          "hash": "e75f8119d758c9e2122f",
-          "publicPath": "/notes/metadata---notes-weekly-2019-e-49-67f.e75f8119d758c9e2122f.js"
+          "file": "metadata---notes-weekly-2019-e-49-67f.9202228b8a5dc277ed65.js",
+          "hash": "9202228b8a5dc277ed65",
+          "publicPath": "/notes/metadata---notes-weekly-2019-e-49-67f.9202228b8a5dc277ed65.js"
         }
       ]
     },
     "21": {
       "js": [
         {
-          "file": "runtime~main.a268b76b5779d34cbe46.js",
-          "hash": "a268b76b5779d34cbe46",
-          "publicPath": "/notes/runtime~main.a268b76b5779d34cbe46.js"
+          "file": "runtime~main.62e9689c8a202faee605.js",
+          "hash": "62e9689c8a202faee605",
+          "publicPath": "/notes/runtime~main.62e9689c8a202faee605.js"
         }
       ]
     },
