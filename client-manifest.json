@@ -65,7 +65,7 @@
       0,
       10
     ],
-    "/Users/wgao19/Documents/ccfe/rk-notes/content/weekly.md": [
+    "/Users/wgao19/Documents/ccfe/rk-notes/content/weekly/2019.md": [
       0,
       11
     ],
@@ -100,7 +100,7 @@
     "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-docs/notes-website-f77.json": [
       21
     ],
-    "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-docs/notes-weekly-3b6.json": [
+    "/Users/wgao19/Documents/ccfe/rk-notes/website/.docusaurus/docusaurus-plugin-content-docs/notes-weekly-2019-227.json": [
       22
     ],
     "runtime~main": [
@@ -179,104 +179,104 @@
     "4": {
       "css": [
         {
-          "file": "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.8d937eef1ae3c6576a99.css",
-          "hash": "8d937eef1ae3c6576a99",
-          "publicPath": "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.8d937eef1ae3c6576a99.css"
+          "file": "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.8508a3e78361035637d2.css",
+          "hash": "8508a3e78361035637d2",
+          "publicPath": "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.8508a3e78361035637d2.css"
         }
       ],
       "js": [
         {
-          "file": "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.8d937eef1ae3c6576a99.js",
-          "hash": "8d937eef1ae3c6576a99",
-          "publicPath": "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.8d937eef1ae3c6576a99.js"
+          "file": "component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.8508a3e78361035637d2.js",
+          "hash": "8508a3e78361035637d2",
+          "publicPath": "/notes/component---users-wgao-19-documents-ccfe-rk-notes-website-src-pages-index-js-100-1cd.8508a3e78361035637d2.js"
         }
       ]
     },
     "5": {
       "js": [
         {
-          "file": "content---notes-collaboration-493-64a.da44e4b9ee8e9838ca11.js",
-          "hash": "da44e4b9ee8e9838ca11",
-          "publicPath": "/notes/content---notes-collaboration-493-64a.da44e4b9ee8e9838ca11.js"
+          "file": "content---notes-collaboration-493-64a.1bc5f2ca2804295ab5ca.js",
+          "hash": "1bc5f2ca2804295ab5ca",
+          "publicPath": "/notes/content---notes-collaboration-493-64a.1bc5f2ca2804295ab5ca.js"
         }
       ]
     },
     "6": {
       "js": [
         {
-          "file": "content---notes-event-flow-2-ce-055.6cc747f8b58191c50507.js",
-          "hash": "6cc747f8b58191c50507",
-          "publicPath": "/notes/content---notes-event-flow-2-ce-055.6cc747f8b58191c50507.js"
+          "file": "content---notes-event-flow-2-ce-055.ce8334d6ac9f4b7afd95.js",
+          "hash": "ce8334d6ac9f4b7afd95",
+          "publicPath": "/notes/content---notes-event-flow-2-ce-055.ce8334d6ac9f4b7afd95.js"
         }
       ]
     },
     "7": {
       "js": [
         {
-          "file": "content---notes-learning-1-a-5-75a.bc4a5c045b5f4d33a2aa.js",
-          "hash": "bc4a5c045b5f4d33a2aa",
-          "publicPath": "/notes/content---notes-learning-1-a-5-75a.bc4a5c045b5f4d33a2aa.js"
+          "file": "content---notes-learning-1-a-5-75a.14e99a9a75f8c9a5572a.js",
+          "hash": "14e99a9a75f8c9a5572a",
+          "publicPath": "/notes/content---notes-learning-1-a-5-75a.14e99a9a75f8c9a5572a.js"
         }
       ]
     },
     "8": {
       "js": [
         {
-          "file": "content---notes-rk-pitch-1-a-3-1bf.b91fc25e982b8a442c1d.js",
-          "hash": "b91fc25e982b8a442c1d",
-          "publicPath": "/notes/content---notes-rk-pitch-1-a-3-1bf.b91fc25e982b8a442c1d.js"
+          "file": "content---notes-rk-pitch-1-a-3-1bf.d9cc4aa4174d179e82ad.js",
+          "hash": "d9cc4aa4174d179e82ad",
+          "publicPath": "/notes/content---notes-rk-pitch-1-a-3-1bf.d9cc4aa4174d179e82ad.js"
         }
       ]
     },
     "9": {
       "js": [
         {
-          "file": "content---notes-venuesef-8-22d.79bde9f064691505c04f.js",
-          "hash": "79bde9f064691505c04f",
-          "publicPath": "/notes/content---notes-venuesef-8-22d.79bde9f064691505c04f.js"
+          "file": "content---notes-venuesef-8-22d.29759bee5a654d789522.js",
+          "hash": "29759bee5a654d789522",
+          "publicPath": "/notes/content---notes-venuesef-8-22d.29759bee5a654d789522.js"
         }
       ]
     },
     "10": {
       "js": [
         {
-          "file": "content---notes-website-61-c-e9d.7d71345fb56ec5b6913d.js",
-          "hash": "7d71345fb56ec5b6913d",
-          "publicPath": "/notes/content---notes-website-61-c-e9d.7d71345fb56ec5b6913d.js"
+          "file": "content---notes-website-61-c-e9d.66757ce4df229307d557.js",
+          "hash": "66757ce4df229307d557",
+          "publicPath": "/notes/content---notes-website-61-c-e9d.66757ce4df229307d557.js"
         }
       ]
     },
     "11": {
       "js": [
         {
-          "file": "content---notes-weeklyd-7-c-38e.9356fe9f87031264b286.js",
-          "hash": "9356fe9f87031264b286",
-          "publicPath": "/notes/content---notes-weeklyd-7-c-38e.9356fe9f87031264b286.js"
+          "file": "content---notes-weekly-20191-a-1-f83.3f162e51c6f356d89c3a.js",
+          "hash": "3f162e51c6f356d89c3a",
+          "publicPath": "/notes/content---notes-weekly-20191-a-1-f83.3f162e51c6f356d89c3a.js"
         }
       ]
     },
     "12": {
       "js": [
         {
-          "file": "docsMetadata---notes-19-f-5fa.ea0acf8c2871c4606d4d.js",
-          "hash": "ea0acf8c2871c4606d4d",
-          "publicPath": "/notes/docsMetadata---notes-19-f-5fa.ea0acf8c2871c4606d4d.js"
+          "file": "docsMetadata---notes-19-f-5fa.e471a97d8b015b908fda.js",
+          "hash": "e471a97d8b015b908fda",
+          "publicPath": "/notes/docsMetadata---notes-19-f-5fa.e471a97d8b015b908fda.js"
         }
       ]
     },
     "13": {
       "css": [
         {
-          "file": "main.8dc10f4801691ae3dcf9.css",
-          "hash": "8dc10f4801691ae3dcf9",
-          "publicPath": "/notes/main.8dc10f4801691ae3dcf9.css"
+          "file": "main.d255bb9d63c8e19c5f3a.css",
+          "hash": "d255bb9d63c8e19c5f3a",
+          "publicPath": "/notes/main.d255bb9d63c8e19c5f3a.css"
         }
       ],
       "js": [
         {
-          "file": "main.8dc10f4801691ae3dcf9.js",
-          "hash": "8dc10f4801691ae3dcf9",
-          "publicPath": "/notes/main.8dc10f4801691ae3dcf9.js"
+          "file": "main.d255bb9d63c8e19c5f3a.js",
+          "hash": "d255bb9d63c8e19c5f3a",
+          "publicPath": "/notes/main.d255bb9d63c8e19c5f3a.js"
         }
       ]
     },
@@ -301,72 +301,72 @@
     "16": {
       "js": [
         {
-          "file": "metadata---notes-collaboration-5-c-4-515.da942a1c6b17a4c3dbf7.js",
-          "hash": "da942a1c6b17a4c3dbf7",
-          "publicPath": "/notes/metadata---notes-collaboration-5-c-4-515.da942a1c6b17a4c3dbf7.js"
+          "file": "metadata---notes-collaboration-5-c-4-515.a5ac30f11fc41be01a96.js",
+          "hash": "a5ac30f11fc41be01a96",
+          "publicPath": "/notes/metadata---notes-collaboration-5-c-4-515.a5ac30f11fc41be01a96.js"
         }
       ]
     },
     "17": {
       "js": [
         {
-          "file": "metadata---notes-event-flow-3-f-2-077.b88d716f49db844b3153.js",
-          "hash": "b88d716f49db844b3153",
-          "publicPath": "/notes/metadata---notes-event-flow-3-f-2-077.b88d716f49db844b3153.js"
+          "file": "metadata---notes-event-flow-3-f-2-077.76007c8e4ba6bb9b0605.js",
+          "hash": "76007c8e4ba6bb9b0605",
+          "publicPath": "/notes/metadata---notes-event-flow-3-f-2-077.76007c8e4ba6bb9b0605.js"
         }
       ]
     },
     "18": {
       "js": [
         {
-          "file": "metadata---notes-learninged-7-098.9bb410bfaa3f93a3f775.js",
-          "hash": "9bb410bfaa3f93a3f775",
-          "publicPath": "/notes/metadata---notes-learninged-7-098.9bb410bfaa3f93a3f775.js"
+          "file": "metadata---notes-learninged-7-098.e37ed74b9df25f37c45e.js",
+          "hash": "e37ed74b9df25f37c45e",
+          "publicPath": "/notes/metadata---notes-learninged-7-098.e37ed74b9df25f37c45e.js"
         }
       ]
     },
     "19": {
       "js": [
         {
-          "file": "metadata---notes-rk-pitchcad-1f5.c896ae49e99f1075661d.js",
-          "hash": "c896ae49e99f1075661d",
-          "publicPath": "/notes/metadata---notes-rk-pitchcad-1f5.c896ae49e99f1075661d.js"
+          "file": "metadata---notes-rk-pitchcad-1f5.b76b402c5b3df59a0fc6.js",
+          "hash": "b76b402c5b3df59a0fc6",
+          "publicPath": "/notes/metadata---notes-rk-pitchcad-1f5.b76b402c5b3df59a0fc6.js"
         }
       ]
     },
     "20": {
       "js": [
         {
-          "file": "metadata---notes-venues-79-c-6e7.2296059b9ca84f7bd87e.js",
-          "hash": "2296059b9ca84f7bd87e",
-          "publicPath": "/notes/metadata---notes-venues-79-c-6e7.2296059b9ca84f7bd87e.js"
+          "file": "metadata---notes-venues-79-c-6e7.024f339737187c8a7e78.js",
+          "hash": "024f339737187c8a7e78",
+          "publicPath": "/notes/metadata---notes-venues-79-c-6e7.024f339737187c8a7e78.js"
         }
       ]
     },
     "21": {
       "js": [
         {
-          "file": "metadata---notes-website-48-d-cb3.52898ee7c8d540bfed07.js",
-          "hash": "52898ee7c8d540bfed07",
-          "publicPath": "/notes/metadata---notes-website-48-d-cb3.52898ee7c8d540bfed07.js"
+          "file": "metadata---notes-website-48-d-cb3.32f9e4b91a27ff9a9f97.js",
+          "hash": "32f9e4b91a27ff9a9f97",
+          "publicPath": "/notes/metadata---notes-website-48-d-cb3.32f9e4b91a27ff9a9f97.js"
         }
       ]
     },
     "22": {
       "js": [
         {
-          "file": "metadata---notes-weeklye-94-cb7.e3a5aa14c99657313c03.js",
-          "hash": "e3a5aa14c99657313c03",
-          "publicPath": "/notes/metadata---notes-weeklye-94-cb7.e3a5aa14c99657313c03.js"
+          "file": "metadata---notes-weekly-2019-e-49-67f.e84bd4ddc30db24446ee.js",
+          "hash": "e84bd4ddc30db24446ee",
+          "publicPath": "/notes/metadata---notes-weekly-2019-e-49-67f.e84bd4ddc30db24446ee.js"
         }
       ]
     },
     "23": {
       "js": [
         {
-          "file": "runtime~main.4206eedb67460537b528.js",
-          "hash": "4206eedb67460537b528",
-          "publicPath": "/notes/runtime~main.4206eedb67460537b528.js"
+          "file": "runtime~main.2ffa2c4472f6d4066411.js",
+          "hash": "2ffa2c4472f6d4066411",
+          "publicPath": "/notes/runtime~main.2ffa2c4472f6d4066411.js"
         }
       ]
     },
