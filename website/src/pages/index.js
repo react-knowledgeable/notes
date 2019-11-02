@@ -36,7 +36,7 @@ function Home() {
                   'button button--primary button--lg',
                   styles.getStarted,
                 )}
-                to={withBaseUrl('2019-weekly')}>
+                to={withBaseUrl('/weekly/2019')}>
                 Read RK&nbsp;&nbsp;→
               </Link>
             </div>
