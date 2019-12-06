@@ -7,6 +7,7 @@ module.exports = {
   organizationName: 'react-knowledgeable',
   projectName: 'notes',
   themeConfig: {
+    sidebarCollapsible: false,
     navbar: {
       title: 'RK Notes',
       logo: {
@@ -17,7 +18,7 @@ module.exports = {
         {
           label: 'Read RK',
           position: 'right',
-          to: 'event-flow',
+          to: '/organization/people',
         },
         {
           href: 'https://github.com/react-knowledgeable/notes/',

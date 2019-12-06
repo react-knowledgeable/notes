@@ -8,7 +8,7 @@ import styles from './styles.module.css';
 
 function Home() {
   const context = useDocusaurusContext();
-  const defaultLink = useBaseUrl('/weekly/2019');
+  const defaultLink = useBaseUrl('/organization/people');
   const {siteConfig = {}} = context;
   return (
     <Layout title={siteConfig.title} description={siteConfig.tagline}>
