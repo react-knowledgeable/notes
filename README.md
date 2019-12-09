@@ -19,13 +19,13 @@ $ GIT_USER=[username] USE_SSH=1 yarn deploy
 
 ## Table of contents
 
+- Events
+  - [5](content/events/5.md)
+  - [1](content/events/1.md)
+- Organization
+  - [Event Flow](content/organization/event-flow.md)
+  - [Collaboration](content/organization/collaboration.md)
+  - [Venues](content/organization/venues.md)
+  - [Finance](content/organization/finance.md)
 - Weekly
   - [2019](content/weekly/2019.md)
-- Runnig RK
-  - [Event Flow](content/event-flow.md)
-  - [Collaboration](content/collaboration.md)
-  - [RK Pitch](content/rk-pitch.md)
-  - [Venues](content/venues.md)
-  - [Finance](content/finance.md)
-- Philosophy
-  - [Learning](content/learning.md)
