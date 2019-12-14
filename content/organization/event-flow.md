@@ -56,3 +56,7 @@ currently jennie has been doing all the photo editing, which is a lot of work. n
 - tell people about what happened during this month's RK
 - send out information about talks, links to videos and resources, etc
 - tell people (again) to propose to speak at next month's event
+
+## Style guide
+
+Add hosting suggestions / style guides here.
