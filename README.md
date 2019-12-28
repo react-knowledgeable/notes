@@ -20,6 +20,7 @@ $ GIT_USER=[username] USE_SSH=1 yarn deploy
 ## Table of contents
 
 - Events
+  - [rk karaoke](content/events/rk-karaoke.md)
   - [5](content/events/5.md)
   - [1](content/events/1.md)
 - Organization
