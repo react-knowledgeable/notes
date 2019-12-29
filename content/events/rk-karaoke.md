@@ -23,11 +23,13 @@ some decks _may_ be better than others, it may also went well because of the spe
 
 - normally, when someone did a good job during a talk, it may or may not be improvisational, or u wouldn't know. in this game, all is improvisational, so you know that the speaker had to come up with stuff on the spot, it is very inspiring because you can see the exact tactic the speaker uses
 - also exemplifies good storytelling / speaking skills when you put those performances side by side
+- first deck was done well and I think it set the tone of how it worked. He was well-informed as well, so that might helped in his execution
 
 ## what could be improved
 
 - we should probably allow speakers to run the slides on their own, it goes more natural that way
 - maybe because we're not familiar with the rules yet, many speakers make it very obvious that they're speaking a deck somebody else built, i.e., they'd say things like "i don't know what this is about..", but that is actually not a key point to the talk and audience all know they haven't built the deck already, so maybe we should add this as an advice when we announce the rules, but maybe people will just naturally get better as we do more of this anyway
+- there are topics which can be sensitive to the speaker (like meat for strict vegetarians)
 
 ## good practices?
 
@@ -37,3 +39,5 @@ the goal is to collectively learn public speaking skills
 
 - "can someone who knows this better please help me out?"
 - even when the slide already has a headline saying something, it is probably still a good idea say it out loud, more like "in this slide im making this point", and then talk about the further points
+- should always applaud and laud the presenter in taking up this challenge
+- recap by deck builder to allow the audience and the participant to appreciate the slides
