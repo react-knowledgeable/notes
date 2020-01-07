@@ -29,4 +29,5 @@ $ GIT_USER=[username] USE_SSH=1 yarn deploy
   - [Venues](content/organization/venues.md)
   - [Finance](content/organization/finance.md)
 - Weekly
+  - [2020](content/weekly/2020.md)
   - [2019](content/weekly/2019.md)
