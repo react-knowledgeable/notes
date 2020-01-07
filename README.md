@@ -19,19 +19,24 @@ $ GIT_USER=[username] USE_SSH=1 yarn deploy
 
 ## Table of contents
 
-- Events
-  - [6](content/events/6.md)
-  - [rk karaoke](content/events/rk-karaoke.md)
-  - [5](content/events/5.md)
-  - [1](content/events/1.md)
-- Games
-  - [Two People Are Lying](content/games/two-people-are-lying.md)
-  - [RK Karaoke](content/games/rk-karaoke.md)
 - Organization
+
   - [Event Flow](content/organization/event-flow.md)
   - [Collaboration](content/organization/collaboration.md)
   - [Venues](content/organization/venues.md)
   - [Finance](content/organization/finance.md)
+
+- Games
+
+  - [Two People Are Lying](content/games/two-people-are-lying.md)
+  - [RK Karaoke](content/games/rk-karaoke.md)
+
+- Events
+
+  - [6](content/events/6.md)
+  - [5](content/events/5.md)
+  - [1](content/events/1.md)
+
 - Weekly
   - [2020](content/weekly/2020.md)
   - [2019](content/weekly/2019.md)
