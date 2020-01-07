@@ -13,7 +13,7 @@ title: RK Two People Are Lying
 - browser function for mobile browser, scrolls to exact text fragment when called
 
 [Ink Skip in CSS](https://www.w3.org/TR/css-text-decor-3/#line-decoration)
-- CSS property that skip the text underline for certain character
+- CSS property that skips the text underline for certain character
 - a bug in old browsers which newspaper articles doesn't render some of the pixels (audience's guess)
 
 [The_Algorithm_Auction](https://en.wikipedia.org/wiki/The_Algorithm_Auction)
