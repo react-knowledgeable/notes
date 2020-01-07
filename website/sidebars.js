@@ -15,6 +15,6 @@ module.exports = {
       label: 'Events',
       items: ['events/rk-1', 'events/rk-5'],
     },
-    {type: 'category', label: 'Weekly', items: ['weekly/2019']},
+    {type: 'category', label: 'Weekly', items: ['weekly/2020', 'weekly/2019']},
   ],
 };
