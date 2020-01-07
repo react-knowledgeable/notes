@@ -1,22 +1,27 @@
 ---
-id: rk-tpal
+id: two-people-are-lying
 title: RK Two People Are Lying
 ---
 
 ## Topics asked
+
 [Dynabook](https://en.wikipedia.org/wiki/Dynabook)
+
 - an npm package forked from storybook (audience's guess)
 - a CSS tricks article describing notebooks
 
 [ScrollToTextFragment](https://github.com/WICG/ScrollToTextFragment)
+
 - for react native use, cannot use on scrollview but can only use on listview. Claims to be given a gh readme article (audience's guess)
 - browser function for mobile browser, scrolls to exact text fragment when called
 
 [Ink Skip in CSS](https://www.w3.org/TR/css-text-decor-3/#line-decoration)
+
 - CSS property that skips the text underline for certain character
 - a bug in old browsers which newspaper articles doesn't render some of the pixels (audience's guess)
 
 [The_Algorithm_Auction](https://en.wikipedia.org/wiki/The_Algorithm_Auction)
+
 - A novel written by a German author on concentration camps in auschwitz (audience's guess)
 - A book written by Donald Knuth
 
@@ -37,12 +42,15 @@ title: RK Two People Are Lying
 - speakers who didn't lie wanted to play again
 
 ## notable points
+
 - none of the 4 sessions had the correct guess
 
 ## what could be improved
+
 - encourage liers to not follow other people's story too closely
 
 ## good practices?
+
 - wait for 30~60s after announcing topic to give time for participants to plan their words
 - display the chosen topic on the board/screen for audience AND participants to see
 - ask "What is X" to each of them before opening to the floor
