@@ -3,3 +3,5 @@
 # generated files
 .docusaurus
 build/
+
+*.log
