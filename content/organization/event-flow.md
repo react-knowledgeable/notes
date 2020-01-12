@@ -60,3 +60,13 @@ currently jennie has been doing all the photo editing, which is a lot of work. n
 ## Style guide
 
 Add hosting suggestions / style guides here.
+
+### Test out devices before the event starts
+
+... and use the first presenting laptop to present opening content
+
+### Pace each section of hosting well
+
+It is easy to feel nervous and eat through everything. Try thinking of this like introducing RK as a friend.
+
+### Order less than enough food
